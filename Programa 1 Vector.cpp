@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+cout<<"Este es un programa de ejemplo";
+
 typedef struct Arreglo{
 	float numero;
 }vector;
