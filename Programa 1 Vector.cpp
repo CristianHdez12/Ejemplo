@@ -2,6 +2,7 @@
 using namespace std;
 
 cout<<"Este es un programa de ejemplo";
+cout<<"Modificando el programa";
 
 typedef struct Arreglo{
 	float numero;
